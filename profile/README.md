@@ -10,7 +10,6 @@ Provans is a modern and comfortable hotel offering:
 - Luxury and family rooms
 - Shared and private accommodations
 - Large parking area (including truck parking)
-- Kitchen, laundry & drying services
 - Friendly atmosphere inspired by Provence 🌻
 
 ## 🌐 Website
